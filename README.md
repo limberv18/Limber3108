@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Actualmente estoy trabajando en @Merli-Team.m<br>🤝 Estoy buscando ayudacon @Merlii<br>🌱 Actualmente estoy aprendiendo PHP<br>💬 Pregúntame sobre cualquiercosa.a <br>
+🔭 Actualmente estoy trabajando en @Merli-Team <br>🤝 Estoy buscando ayudacon @Merlii<br> 🌱 Actualmente estoy aprendiendo PHP<br> 💬 Pregúntame sobre cualquier cosa <br>
 
 
 ## 🌐 Socials:
